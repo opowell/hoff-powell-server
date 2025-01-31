@@ -1,8 +1,8 @@
 <template>
-  <div class="app">
+  <a :href="'/' + app" class="app">
     <div class="app-icon">{{ app[0].toUpperCase() }}</div>
     <div class="app-name">{{ app }}</div>
-  </div>
+  </a>
 </template>
 <script>
 function djb2(str) {
@@ -52,6 +52,7 @@ export default {
   flex-direction: column;
   padding: 0.5rem;
   border-radius: 0.5rem;
+  text-decoration: none;
 }
 .app:hover {
   background-color: v-bind(fadedBgColor);

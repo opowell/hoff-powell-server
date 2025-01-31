@@ -42,12 +42,8 @@ window.launchpad.init = () => {
       },
       setup() {
         const apps = ref(loadedApps.filter(a => a !== 'launchpad'))
-        const handleAppClick = (id) => {
-          window.location.href = window.location.origin + '/' + id
-        }
         const out = {
           apps,
-          handleAppClick
         }
         Object.keys(out).forEach(key => {
           window.launchpad[key] = out[key]
