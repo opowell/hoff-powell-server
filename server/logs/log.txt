@@ -1,0 +1,417 @@
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://127.0.0.1:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://127.0.0.1:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://127.0.0.1:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://127.0.0.1:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+JAS - http://127.0.0.1:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000
+loading apps: /Users/play/repos/jas/src/built-in-apps
+loading app: launchpad /Users/play/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/play/repos/jas/src/apps
+loading app: rogue2 /Users/play/repos/jas/src/apps/rogue2
+loading app: test /Users/play/repos/jas/src/apps/test
+JAS - http://192.168.0.192:3000

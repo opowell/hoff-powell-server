@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Label</key>
+        <string>localhost.jas</string>
+        <key>ProgramArguments</key>
+        <array>
+            <string>/Users/op/repos/jtree3/node/v20.15.0-darwin-x64/bin/node</string>
+            <string>/Users/op/repos/jtree3/src/server.jas</string>
+        </array>
+        <key>RunAtLoad</key>
+        <true/>
+        <key>StandardOutPath</key>
+        <string>/Users/op/repos/jtree3/logs/log.txt</string>
+        <key>StandardErrorPath</key>
+        <string>/Users/op/repos/jtree3/logs/error.txt</string>
+    </dict>
+</plist>

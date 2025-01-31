@@ -1,0 +1,18 @@
+<html lang="en">
+  <head>
+    <script type="text/javascript" src="vue.global.js"></script>
+    <script type="text/javascript" src="vue3-sfc-loader.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Launchpad</title>
+  </head>
+  <body>
+    <div id="app">
+      <div class="apps-container">
+        <div class="apps">
+          <launchpad-app v-for="app in apps" :key="app" :app="app" @click="handleAppClick(app)" />
+        </div>
+      </div>
+    </div>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2 @@
+/Users/play/repos/jas/jas.sh: line 2: cd: ./src: No such file or directory
+/Users/play/repos/jas/jas.sh: line 3: ./../node/v20.15.0-darwin-x64/bin/node: No such file or directory
